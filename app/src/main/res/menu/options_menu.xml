@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/saved_words"
+        android:title="Saved Words"/>
+    <item android:id="@+id/sort_words"
+        android:icon="@drawable/sort"
+        android:title="Sort Words"/>
+</menu>
